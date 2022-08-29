@@ -49,12 +49,8 @@
 - [material ui](https://mui.com/pt/)
 
 ## 🔗 Link Surge 
-Acesse a página do LabEddit [clicando aqui](https://labeddit-michael.surge.sh/)
+Acesse a página do LabEddit [clicando aqui](https://http://bewildered-metal.surge.sh/)
 
-##  👩🏻‍💻 Desenvolvedor
-
-| [<img src="https://user-images.githubusercontent.com/80003041/186209416-5df35475-ab64-4f8e-8555-36cbd4d4bae7.png" width=115><br><sub>Michael Douglas F Marcelino</sub>](https://www.linkedin.com/in/michaeldouglasf/)
-| :---: | 
 
 ## 📷 Imagens
 #### MOBILE (Usando como modelo o iphone 12 Pro)
