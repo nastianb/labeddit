@@ -9,8 +9,8 @@
     * Também devera ter um botão que leva a página de cadastro
     *  O token deve ser salvo no LocalStorage
 
-- **Cadastro**
-    * Após cadastrar, o usuário deverá ser redirecionado para a página de feed
+- **SignUp**
+    * Após o signup, o usuário deverá ser redirecionado para a página de feed
     *  O token deve ser salvo no LocalStorage
 
 - **Feed**
