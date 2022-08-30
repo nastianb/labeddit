@@ -54,19 +54,13 @@ Acesse a página do LabEddit [clicando aqui](https://bewildered-metal.surge.sh)
 
 ## 📷 Imagens
 #### MOBILE (Usando como modelo o iphone 12 Pro)
+<img width="293" alt="Captura de ecrã 2022-08-30, às 11 36 03" src="https://user-images.githubusercontent.com/46450381/187416879-e908c904-824d-44bc-bf07-407ca25ee083.png"><img width="293" alt="Captura de ecrã 2022-08-30, às 11 36 16" src="https://user-images.githubusercontent.com/46450381/187416901-95364106-5736-4ac5-8498-8b5a8de1a60b.png">
+<img width="293" alt="Captura de ecrã 2022-08-30, às 11 36 16" src="https://user-images.githubusercontent.com/46450381/187417008-966a8ca5-af70-406a-8de5-54dfb43f8914.png"><img width="288" alt="Captura de ecrã 2022-08-30, às 11 37 34" src="https://user-images.githubusercontent.com/46450381/187417024-64304f0b-e180-4538-b81a-728a0771dbaf.png">
+<img width="293" alt="Captura de ecrã 2022-08-30, às 11 36 16" src="https://user-images.githubusercontent.com/46450381/187417037-02390a3d-d58d-40b0-8b95-d59261e01fd5.png">
 
-![Screenshot from 2022-08-23 15-41-07](https://user-images.githubusercontent.com/80003041/186209078-56e0436b-da5d-44cf-b06e-4e9a80639561.png)
-![Screenshot from 2022-08-23 15-41-16](https://user-images.githubusercontent.com/80003041/186209083-cc653d0f-7018-494b-8a0a-5a181365cc13.png)
-![Screenshot from 2022-08-23 15-41-25](https://user-images.githubusercontent.com/80003041/186209088-1408aeb7-f21c-4550-976f-fe158b83b166.png)
-![Screenshot from 2022-08-23 15-41-31](https://user-images.githubusercontent.com/80003041/186209091-38e55f22-b0d4-46ce-a475-bf4fe2f44b0f.png)
-![Screenshot from 2022-08-23 15-41-45](https://user-images.githubusercontent.com/80003041/186209093-064a4dcf-1238-4702-9148-c2f95f452fba.png)
-![Screenshot from 2022-08-23 15-40-55](https://user-images.githubusercontent.com/80003041/186209141-9464bab1-f274-485c-9170-ed0dd63d7ede.png)
+
 
 
 #### DESKTOP
-![Screenshot from 2022-08-23 15-29-37](https://user-images.githubusercontent.com/80003041/186209000-fedef049-fff5-4512-bf0c-d31ec0089a65.png)
-![Screenshot from 2022-08-23 15-30-07](https://user-images.githubusercontent.com/80003041/186209011-31bcc496-6fa0-494c-9bbd-e01f9e305a6a.png)
-![Screenshot from 2022-08-23 15-33-05](https://user-images.githubusercontent.com/80003041/186209014-1f89eeb7-a4e4-445d-9c43-6aec6df2de41.png)
-![Screenshot from 2022-08-23 15-33-13](https://user-images.githubusercontent.com/80003041/186209019-fc52d431-f607-46da-9455-29347dbe4b97.png)
-![Screenshot from 2022-08-23 15-40-45](https://user-images.githubusercontent.com/80003041/186209021-7b5f41cd-7ca9-4d8c-a8da-efa7a58a4bc1.png)
+
 
