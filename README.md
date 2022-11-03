@@ -49,7 +49,7 @@
 - [material ui](https://mui.com/pt/)
 
 ## 🔗 Link Surge 
-Acesse a página do LabEddit [clicando aqui](https://bewildered-metal.surge.sh)
+Acesse a página do LabEddit [clicando aqui](https://labeddit-nine.vercel.app)
 
 
 ## 📷 Imagens
